@@ -1,14 +1,3 @@
-/*
-Title: JAVA48 intensiivkoolitus
-Description:
-Category: post
-Author: Mihkel Oviir
-Date: 2017/03/11
-Robots: index,follow
-Image: content/images/posts/Java.png
-Published: false
-Tags: programming, learning
-*/
 
 
 http://enos.itcollege.ee/~mimangus/java48/
@@ -56,7 +45,7 @@ Pakett - kui on rohkem kui 1 klass, on mõistlik kasutada paketti.
 Paketi nimes . tähendab alampaketti/kataloogi, hea tava: ee.itcollege.parcticum1
 Rea liigutamine Alt ja nooled.
 
-** Ülesanne 1**
+**Ülesanne 1**
 
 
     package ee.itcollege.practicum1;
@@ -84,7 +73,7 @@ Rea liigutamine Alt ja nooled.
         }
     }
 
-** Ülesanne 2 **
+**Ülesanne 2**
 
     package ee.itcollege.practicum1;
 
@@ -119,7 +108,7 @@ Rea liigutamine Alt ja nooled.
         }
     }
 
-** Ülesanne 3 **
+**Ülesanne 3**
 
 tetrise mäng JavaFX'ga.  
 Main meetod kutsub välja klassi meetodi launch, mis käivitab meetodi start.  
@@ -130,7 +119,7 @@ Maven, convert project to maven project. Lisame JUniti dependency. (http://junit
 https://raw.githubusercontent.com/murjam/tetris-fx/d131f29656cb7d59c1f9d474d33908fa5919d81d/src/ee/tthk/tetris/lib/FigureGenerator.java
 
 
-** Hibernate **
+**Hibernate**
 
 ORM
 
@@ -222,7 +211,7 @@ Generics.java
     }
 
 
-** Ülesanne 1 **
+**Ülesanne 1**
 
 SortableList.java
 
@@ -296,7 +285,7 @@ Generics.java
     }
 
 
-** Ülesanne 2 **
+**Ülesanne 2**
 
 Serialization, deserialization - andmete objektiks ja via versa teisendamine. Ei sobi andmete pikaajaliseks hoidmiseks, kuna klass võib muutuda.
 
@@ -360,7 +349,7 @@ Serialization, deserialization - andmete objektiks ja via versa teisendamine. Ei
     }
 
 
-** Wicket **
+**Wicket**
 
 
 * eclipse plugin: http://marketplace.eclipse.org/content/qwickie
@@ -478,11 +467,11 @@ html
 
 
 
-** Spring **
+**Spring**
 
 Dependency injection
 
-** Aspect-Oriented programming AOP **
+**Aspect-Oriented programming AOP**
 
 @Aspect_class
 @Pointcut_
@@ -541,5 +530,5 @@ Dependency injection
     }
 
 
-** Annotatsioonid **
+**Annotatsioonid**
 
